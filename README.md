@@ -1,8 +1,6 @@
 # Weining Kan  
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-My%20Profile-lightgrey)](https://scholar.google.com/citations?user=your-profile-id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20Profile-blue)](https://www.linkedin.com/in/weiningkan/)
 [![CV](https://img.shields.io/badge/My-CV-orange)](https://drive.google.com/file/d/1IW1VzCAJp-DfTo843XOofNexhM60Tmd6/view?usp=sharing)
 
