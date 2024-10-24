@@ -15,10 +15,3 @@ Her research interest is in Geographic Information Systems, GeoAI, Spatial Analy
 ## Projects
 
 
-
-
-
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nchagmado&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nchagmado&langs_count=3&hide=javascript,go,html,css,tex)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nchagmado&hide_langs_below=10) -->
