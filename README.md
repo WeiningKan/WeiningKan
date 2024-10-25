@@ -1,6 +1,6 @@
 # Weining Kan  
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-WeiningKan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20Profile-blue)](https://www.linkedin.com/in/weiningkan/)
 [![CV](https://img.shields.io/badge/My-CV-orange)](https://drive.google.com/file/d/1IW1VzCAJp-DfTo843XOofNexhM60Tmd6/view?usp=sharing)
 
@@ -9,8 +9,8 @@ Weining Kan is a Master's student at the Florida State University in the Departm
 Her research interest is in Geographic Information Systems, GeoAI, Spatial Analysis, Health Geography, and Spatial Accessibilities.
 
 ## Education
-- [Florida State University, Tallahassee](https://www.fsu.edu)  
-- [University of Leeds, UK](https://www.leeds.ac.uk/)  
+- Florida State University, Tallahassee
+- University of Leeds, UK
 - Communication University of China, Nanjing
 
 ## Projects
