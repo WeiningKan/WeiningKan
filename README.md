@@ -18,12 +18,11 @@ Her research interest is in Geographic Information Systems, GeoAI, Spatial Analy
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%;">
-    ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WeiningKan&show_icons=true)
+    ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WeiningKan&show_icons=true)
   </div>
 
   <div style="width: 48%;">
-    ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WeiningKan&langs_count=3&hide=javascript,go,html,css,tex)
+    ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WeiningKan&langs_count=3&hide=javascript,go,html,css,tex)
   </div>
 
 </div>
-
