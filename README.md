@@ -11,6 +11,7 @@ Her research interest is in Geographic Information Systems, GeoAI, Spatial Analy
 # Education
 - [Florida State University, Tallahassee](https://www.fsu.edu)  
 - [University of Leeds, UK](https://www.leeds.ac.uk/)  
+- [Communication University of China, Nanjing]  
 
 ## Projects
 
