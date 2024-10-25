@@ -1,6 +1,6 @@
 # Weining Kan  
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-WeiningKan)
+[![GitHub followers](https://img.shields.io/github/followers/WeiningKan?label=Follow&style=social)](https://github.com/your-WeiningKan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20Profile-blue)](https://www.linkedin.com/in/weiningkan/)
 [![CV](https://img.shields.io/badge/My-CV-orange)](https://drive.google.com/file/d/1IW1VzCAJp-DfTo843XOofNexhM60Tmd6/view?usp=sharing)
 
