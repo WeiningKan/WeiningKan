@@ -14,10 +14,6 @@ Her research interest is in Geographic Information Systems, GeoAI, Spatial Analy
 - Communication University of China, Nanjing
 
 ## Projects
-### GitHub Stats
-
 ![Weining Kan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WeiningKan&show_icons=true)
-
-### Most Used Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WeiningKan&langs_count=3&hide=javascript,go,html,css,tex)
