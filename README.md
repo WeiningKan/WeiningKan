@@ -8,11 +8,14 @@
 Weining Kan is a Master's student at the Florida State University in the Department of Geography, where she is an instructor of "GIS Lab" course and other research activities. 
 Her research interest is in Geographic Information Systems, GeoAI, Spatial Analysis, Health Geography, and Spatial Accessibilities.
 
-# Education
+## Education
 - [Florida State University, Tallahassee](https://www.fsu.edu)  
 - [University of Leeds, UK](https://www.leeds.ac.uk/)  
 - Communication University of China, Nanjing
 
 ## Projects
 
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WeiningKan&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WeiningKan&langs_count=3&hide=javascript,go,html,css,tex)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiningKan&hide_langs_below=10) -->
